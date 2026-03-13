@@ -1,0 +1,22 @@
+/* css styles */
+
+/* 导航栏背景色改为浅蓝色 */
+.navbar {
+  background-color: #e6f2ff !important;
+}
+
+/* 导航栏链接文字颜色适配深色背景 */
+.navbar .nav-link,
+.navbar-brand {
+  color: #003366 !important;
+}
+
+/* 标题文字颜色改为深蓝色 */
+h1, h2, h3, h4, h5, h6 {
+  color: #003366;
+}
+
+/* 正文行间距调整为 1.6 倍 */
+body {
+  line-height: 1.6;
+}
